@@ -1,0 +1,33 @@
+Config:
+ OutputMode: 1
+ OutputFile: PD2Hook.log
+ PrintOffsets: false
+ ExtraCols: 10
+ ExtraRows: 10
+KeyBindings:
+- [VK_F2, mods\Solo Achievements and Challenges\overdrill_activator.lua]
+PersistScripts:
+- ['No photos', mods\Solo Achievements and Challenges\no_photos.lua]
+- ['Quick draw', mods\Solo Achievements and Challenges\quick_draw.lua]
+- ['Gold digger', mods\Solo Achievements and Challenges\gold_digger.lua]
+- ['Quick hands', mods\Solo Achievements and Challenges\quick_hands.lua]
+- ['Crowd control', mods\Solo Achievements and Challenges\crowd_control.lua]
+- ['Thats the wrong door, again', mods\Solo Achievements and Challenges\thats_the_wrong_door_again.lua]
+- ['Afraid of the dark', mods\Solo Achievements and Challenges\afraid_of_the_dark.lua]
+PostRequireScripts:
+- ['*', mods\Useful Features\unlock_all_masks.lua]
+- ['*', mods\Improved Bots\teamlogic_assault.lua]
+- ['*', mods\Improved Bots\teamlogic_cover.lua]
+- ['*', mods\Improved Bots\teamlogic_running.lua]
+- ['lib/managers/menumanager', mods\Useful Features\enable_restart_game.lua]
+- ['lib/managers/menumanager', mods\Useful Features\no_save_progress_question.lua]
+- ['lib/units/weapons/raycastweaponbase', mods\Solo Crew Bonuses\raycastweaponbase.lua]
+- ['lib/units/beings/player/playerdamage', mods\Solo Crew Bonuses\playerdamage.lua]
+- ['lib/managers/experiencemanager', mods\Solo Crew Bonuses\experiencemanager.lua]
+- ['lib/managers/experiencemanager', mods\Solo Achievements and Challenges\lay_on_hands.lua]
+- ['lib/units/props/christmaspresentbase', mods\Solo Achievements and Challenges\last_christmas.lua]
+- ['lib/managers/statisticsmanager', mods\Solo Achievements and Challenges\grim_reaper.lua]
+- ['lib/units/equipment/sentry_gun/sentrygunbase', mods\Solo Achievements and Challenges\sentry_gun_vs_the_world.lua]
+- ['lib/states/missionendstate', mods\Solo Achievements and Challenges\end_mission.lua]
+- ['lib/tweak_data/challengestweakdata', mods\Solo Achievements and Challenges\challenges.lua]
+- ['lib/managers/localizationmanager', mods\Localization\localization.lua]
