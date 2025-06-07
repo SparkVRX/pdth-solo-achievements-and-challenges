@@ -6,6 +6,8 @@ English | [Russian](https://github.com/SparkVRX/pdth-solo-achievements-and-chall
 ## Installation and compatibility
 This mod should be installed on a clean game, it is incompatible with DAHM/DorHUD and other mods. To install it, you need to extract the contents of the archive (IPHLPAPI.dll, PD2Hook.yml and the mods folder) to the root folder of the game.
 
+**[<ins>Download mod</ins>](https://github.com/SparkVRX/pdth-solo-achievements-and-challenges/releases/download/v1.0/Solo.Achievements.and.Challenges.rar)**
+
 ## Improved Bots
 To be able to play independently without other players even on Overkill difficulty, bots have been improved. Now their capabilities are closer to real players, which compensates for their lack of initiative.
 
