@@ -1,5 +1,5 @@
 # PAYDAY: The Heist | Solo Achievements and Challenges
-English | Russian
+English | [Russian](https://github.com/SparkVRX/pdth-solo-achievements-and-challenges/blob/main/README_RU.md)
 
 **PAYDAY: The Heist** is a great game with a lot of potential, but it has no place for a solo player. Many achievements/challenges can only be completed in co-op, Overkill 145+ difficulty is only for a full team of strong players, and bots are so bad that it is almost impossible to play with them even on Overkill difficulty. Without other players, you can’t even use crew bonuses. This mod solves all these problems and allows a solo player to complete the game 100%, get genuine pleasure and not resort to using glitches, cheats and other similar tricks.
 
